@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steadman1
 - 👀 I’m interested in CS, math, and programming
-- 🌱 I’m currently a student at Virginia Tech and teaching myself CS 
+- 🌱 I’m currently a student at CS Virginia Tech 
 - 📫 message me on instagram @s__steadman 
 
 <!---
