@@ -1,4 +1,4 @@
-# Hi, I’m Spence
+# Hi, I’m Spencer
 
 I’m a computer science student at Virginia Tech 🦃 and an independent full-stack developer with a software & design studio named "Painter*s Tape Studios." Although I've been programming and loving computing since late 2019, I'm primarily focused on front-end design and UI/UX work professionally.  
 
